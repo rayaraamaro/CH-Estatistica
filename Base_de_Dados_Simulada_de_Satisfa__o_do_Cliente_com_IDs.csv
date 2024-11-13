@@ -1,4 +1,4 @@
-id_mecanico,Tempo_medio_navegacao,Taxa_finalizacao_orcamento,Qtd_acessos_funcionalidades_suporte,Frequencia_uso_app,Tempo_fidelidade_mecanico,Classificacao
+id_mecanico,Tempo de navegação,Taxa de finalização,Acesso a suporte,Frequencia do uso do app,Tempo de fidelidade,Classificação
 1,10.9,0.78,5,8,20,1
 2,23.2,0.65,7,14,1,5
 3,14.2,0.66,10,24,8,5
